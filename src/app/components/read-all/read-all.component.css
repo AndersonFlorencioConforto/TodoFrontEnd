@@ -3,6 +3,18 @@
     margin: auto;
 }
 
+.badge {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.badge button {
+    margin: auto;
+    width: 100%;
+}
+
 .content{
     width: 100%;
 }
@@ -14,7 +26,7 @@
 
 mat-card{
     margin-top: .8rem;
-   padding: 20px;
+  
 }
 
 p{
@@ -26,9 +38,11 @@ p{
 
 .actions{
     margin: .5rem;
+    text-align: end;
 
 }
 
 .actions button{
     margin: .5rem;
+    
 }
