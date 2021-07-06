@@ -5,7 +5,8 @@
 export const environment = {
   production: false,
   baseUrl: 'http://localhost:8080/todos/all',
-  baseUrl2: 'http://localhost:8080/todos/delete'
+  baseUrl2: 'http://localhost:8080/todos/delete',
+  baseUrl3: 'http://localhost:8080/todos/alter'
 };
 
 /*
