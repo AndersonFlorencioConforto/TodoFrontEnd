@@ -20,6 +20,12 @@ export class TodoService {
   findAll(): Observable<Todo[]>{
     return this.http.get<Todo[]>(this.baserUrl)
   }
+
+  findById(id : any): Observable<Todo>{
+    const url = `${this.baserUrl4}/${id}`
+    return this.http.get<Todo>(url)
+  }
+
   update(todo : Todo): Observable<Todo>{
     const url = `${this.baserUrl3}/${todo.id}`
     return this.http.put<Todo>(url,todo);
