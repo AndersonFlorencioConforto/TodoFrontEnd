@@ -13,6 +13,7 @@ export class TodoService {
   baserUrl = environment.baseUrl;
   baserUrl2 = environment.baseUrl2;
   baserUrl3 = environment.baseUrl3;
+  baserUrl4 = environment.baseUrl4;
 
   constructor(private http: HttpClient, private snack : MatSnackBar) { }
 
@@ -27,6 +28,10 @@ export class TodoService {
   delete(id : any): Observable<void>{
     const url = `${this.baserUrl2}/${id}`
     return this.http.delete<void>(url);
+  }
+
+  create(todo:Todo): Observable<Todo>{
+    return this.http.post<Todo>(this.baserUrl4, todo);
   }
 
   message(msg : String):void{
