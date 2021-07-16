@@ -1,27 +1,59 @@
-# Todo
+<h1 align="center">
+    Todo Application
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
-## Development server
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+    <img alt="home" src="https://i.imgur.com/W9UmiR8.png" width="80%" height="80%">
+</p>
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Tecnologias
 
-## Running end-to-end tests
+Esses códigos foram desenvolvidos com as seguintes tecnologias:
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- [Java™ Platform, Standard Edition 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 
-## Further help
+- [Spring Boot](https://spring.io/projects/spring-boot)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)   
+
+- [H2 - Console ](https://www.h2database.com/html/main.html)
+
+- [Maven](https://maven.apache.org/guides/index.html)
+
+- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+
+- [Eclipse](https://www.eclipse.org/)
+
+- [Angular](https://angular.io/)
+
+- [AngularMaterial](https://material.angular.io/)
+
+- [TypeScript](https://www.typescriptlang.org/docs/)
+
+
+
+  <br>
+
+
+## 💻 Projeto
+
+⚡️ Essa é uma aplicação utilizando as tecnologias acima, onde foi criado um CRUD completo de tarefas(Todo), onde podemos criar tarefas,
+estipular um prazo de entrega e após concluídas podemos finaliza-la ou edita-las.
+ 
+ Link para o clone  ----> https://github.com/AndersonFlorencioConforto/ProjectTodo.git
+
+📫 Dúvidas ou sugestões segue o Linkedin! [LinkedIn](https://www.linkedin.com/in/anderson-florencio-conforto-b77577202/)
+
