@@ -53,7 +53,11 @@ Esses códigos foram desenvolvidos com as seguintes tecnologias:
 ⚡️ Essa é uma aplicação utilizando as tecnologias acima, onde foi criado um CRUD completo de tarefas(Todo), onde podemos criar tarefas,
 estipular um prazo de entrega e após concluídas podemos finaliza-la ou edita-las.
  
- Link para o clone  ----> https://github.com/AndersonFlorencioConforto/ProjectTodo.git
+ - Link para o clone  ----> https://github.com/AndersonFlorencioConforto/ProjectTodo.git [BackEnd]
+ - Link para o clone  ----> https://github.com/AndersonFlorencioConforto/TodoFrontEnd.git [Front-End]
+ 
+ 
+
 
 📫 Dúvidas ou sugestões segue o Linkedin! [LinkedIn](https://www.linkedin.com/in/anderson-florencio-conforto-b77577202/)
 
